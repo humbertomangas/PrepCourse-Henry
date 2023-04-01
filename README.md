@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prep Course Henry rep
+Este proyecto es una prueba.
